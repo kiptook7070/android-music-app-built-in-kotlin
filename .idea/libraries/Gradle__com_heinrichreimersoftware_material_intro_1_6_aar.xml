@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.heinrichreimersoftware:material-intro:1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b53d2e6b9de1ff1713fd09447de6e0/jetified-material-intro-1.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b53d2e6b9de1ff1713fd09447de6e0/jetified-material-intro-1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b53d2e6b9de1ff1713fd09447de6e0/jetified-material-intro-1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4b53d2e6b9de1ff1713fd09447de6e0/jetified-material-intro-1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

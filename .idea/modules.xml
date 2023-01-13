@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RetroMusicPlayer-dev.iml" filepath="$PROJECT_DIR$/.idea/modules/RetroMusicPlayer-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RetroMusicPlayer-dev.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RetroMusicPlayer-dev.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appthemehelper/RetroMusicPlayer-dev.appthemehelper.iml" filepath="$PROJECT_DIR$/.idea/modules/appthemehelper/RetroMusicPlayer-dev.appthemehelper.iml" />
+    </modules>
+  </component>
+</project>
